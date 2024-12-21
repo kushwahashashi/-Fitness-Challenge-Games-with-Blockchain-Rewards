@@ -12,6 +12,8 @@ This project aims to gamify fitness, making exercise more enjoyable and rewardin
 The contract address will be generated once the smart contract is deployed on the Ethereum network. For testing purposes, the contract should first be deployed on a testnet like Rinkeby or Goerli.
 
 **Example Contract Address:**
+![Screenshot 2024-12-21 132416](https://github.com/user-attachments/assets/a175278e-8207-4507-a1cd-08a98c46c9ac)
+
 `0x1234abcd...`
 
 ## Project Vision
